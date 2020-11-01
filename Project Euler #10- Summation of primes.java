@@ -3,7 +3,6 @@ import java.io.*;
 
 public class Solution{
     public static final int MAX = 1000000;
-
     public static void main(String args[]) throws IOException {
         List<Integer> list = new ArrayList<>();
         list.add(2);
