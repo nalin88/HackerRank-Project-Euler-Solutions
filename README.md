@@ -4,7 +4,7 @@
     </a>
     <br> <strong>200 HackerRank Euler Competitive problems Solutions.</strong>
     <br> Solutions are coaded in Java Language. 
-    <br><br>
+    <br></p>
     <table>
 <thead>
 <tr>
@@ -342,4 +342,3 @@
 </tbody>
 </table>
 
-</p>
